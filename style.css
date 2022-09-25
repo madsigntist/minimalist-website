@@ -72,12 +72,12 @@ nav svg {
 
 .logo h1 {
   margin-left: 0.5rem;
-  font-size: 1rem;
+  font-size: 2rem;
   font-family: "argonite", sans-serif;
 }
 
 .logo img {
-  width: 1.5rem;
+  width: 3rem;
 }
 
 #topBtn {
@@ -231,7 +231,7 @@ nav svg {
 
 @media screen and (min-width: 768px) {
   body {
-    padding: 0% 10%;
+    padding: 0% 15%;
   }
   .videos {
     display: flex;
